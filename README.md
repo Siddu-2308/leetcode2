@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Siddu-2308/leetcode2/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Siddu-2308/leetcode2/tree/master/0283-move-zeroes) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Siddu-2308/leetcode2/tree/master/2780-minimum-index-of-a-valid-split) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Siddu-2308/leetcode2/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 ## Hash Table
 |  |
 | ------- |
