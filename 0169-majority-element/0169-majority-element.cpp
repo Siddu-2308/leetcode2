@@ -7,7 +7,6 @@ public:
             if (count == 0) {
                 // reset
                 maj = nums[i];
-                count = 0;
             }
             if (maj == nums[i]) {
                 count++;
