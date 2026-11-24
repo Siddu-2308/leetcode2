@@ -1,15 +1,24 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        unordered_map<int,int>m1;
-        unordered_map<int,int>m2;
-        for(char c:s){
-            m1[c]++;
+        if(s.length()!=t.length())
+        {
+            return false;
         }
-         for(char c:t){
-            m2[c]++;
+        int n=s.length();
+        int count[26]={0};
+        for(int i=0;i<n;i++)
+        {
+            count[s[i]-'a']++;
         }
-        return (m1==m2);
-        
+        for(int i=0;i<n;i++)
+        {
+            if(count[t[i]-'a']==0)
+            {
+                return false;
+            }
+            count[t[i]-'a']--;
+        }
+        return true;
     }
 };
