@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Siddu-2308/leetcode2/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Siddu-2308/leetcode2/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Siddu-2308/leetcode2/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Siddu-2308/leetcode2/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0724-find-pivot-index](https://github.com/Siddu-2308/leetcode2/tree/master/0724-find-pivot-index) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Siddu-2308/leetcode2/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Siddu-2308/leetcode2/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Siddu-2308/leetcode2/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Siddu-2308/leetcode2/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Siddu-2308/leetcode2/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Siddu-2308/leetcode2/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Siddu-2308/leetcode2/tree/master/2780-minimum-index-of-a-valid-split) |
 ## Two Pointers
 |  |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Siddu-2308/leetcode2/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Siddu-2308/leetcode2/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Siddu-2308/leetcode2/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Siddu-2308/leetcode2/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -46,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Siddu-2308/leetcode2/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Siddu-2308/leetcode2/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Siddu-2308/leetcode2/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Siddu-2308/leetcode2/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Siddu-2308/leetcode2/tree/master/2780-minimum-index-of-a-valid-split) |
 ## Math
 |  |
@@ -77,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Siddu-2308/leetcode2/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/Siddu-2308/leetcode2/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Siddu-2308/leetcode2/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Linked List
 |  |
 | ------- |
