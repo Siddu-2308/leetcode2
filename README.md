@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Siddu-2308/leetcode2/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Siddu-2308/leetcode2/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Siddu-2308/leetcode2/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Siddu-2308/leetcode2/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0724-find-pivot-index](https://github.com/Siddu-2308/leetcode2/tree/master/0724-find-pivot-index) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Siddu-2308/leetcode2/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Siddu-2308/leetcode2/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Siddu-2308/leetcode2/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Siddu-2308/leetcode2/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Siddu-2308/leetcode2/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Siddu-2308/leetcode2/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Siddu-2308/leetcode2/tree/master/2780-minimum-index-of-a-valid-split) |
 ## Two Pointers
 |  |
