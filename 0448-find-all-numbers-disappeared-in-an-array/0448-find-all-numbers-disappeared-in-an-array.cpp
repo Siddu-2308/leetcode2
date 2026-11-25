@@ -10,4 +10,6 @@ public:
         }
         return ans;
     }
+    //learn index marking teqnique
+    
 };
