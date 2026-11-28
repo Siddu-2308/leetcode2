@@ -15,16 +15,17 @@ public:
         dummy->next=head;
         ListNode* a=dummy;
         ListNode* b=dummy;
-        ListNode* prev=nullptr;
-        for(int i=0;i<n;i++){
+        //ListNode* prev=nullptr;
+        for(int i=0;i<n+1;i++){
             b=b->next;
         }
         while(b!=nullptr){
-            prev=a;
+            //prev=a;
             a=a->next;
             b=b->next;
         }
-        prev->next=a->next;
+        //prev->next=a->next;
+        a->next=a->next->next;
         return dummy->next;
     }
 };
